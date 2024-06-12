@@ -9,6 +9,8 @@
 
 ## Steps
 Note: This project was done on Ubuntu Linux. Commands may varry with a different OS
+- Diagram of major steps:
+- - Configure credentials -> Download prerequisits -> Run Terraform to build EC2 instance -> Run ansible script to downlaod & start the minecraft server -> Connect to the server with nmap
 
 #### 1: Configure credentials
 - This project uses a credentials file that must be filled in.
